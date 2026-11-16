@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.mp4
+*.backup
+*.backup-*
+*.before*
+*.recovery-*
